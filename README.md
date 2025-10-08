@@ -42,14 +42,18 @@ This project aims to answer that question using real data and cost modeling.
 - `final_ergonomics_cost_dataset.csv` – Merged and calculated dataset
 - `README.md` – Project description
 
-## Next Steps
+## Future Improvements
 
-- Expand to use official EWCS microdata via Eurofound access
-- Add real tool cost data (e.g., RUBA, exosuits) and calculate ROI
-- Build a Tableau dashboard with:
-  - High-cost job roles
-  - Estimated savings from intervention
-  - Country-level breakdowns
+To expand this project further and enhance real-world value:
+
+- Integrate official EWCS microdata (once access is granted via Eurofound)
+- Incorporate real cost data for ergonomic assistive tools (e.g., RUBA, exosuits) to estimate ROI
+- Develop a Tableau dashboard to visualize:
+  - Country-level cost burdens
+  - High-risk job roles
+  - Projected savings from ergonomic interventions
+
+These steps would enhance the project from analysis into a fully deployable business intelligence tool.
 
 ---
 
