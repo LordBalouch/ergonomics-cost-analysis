@@ -1,0 +1,11 @@
+Respondent ID,Country,Job Role,Lifting Heavy Loads,Posture: Standing Long Periods,Posture: Twisting Movements,Use of Assistive Equipment,Back Pain Last 12 Months,Sick Leave Due to MSD,Average Daily Salary (EUR),Estimated Sick Leave Cost/Day (EUR),Avg MSD Sick Days per Year,Estimated MSD Sick Leave Cost (EUR)
+1,Norway,Warehouse Worker,Daily,Yes,Often,No,Yes,Yes,300,350,8,2800
+2,Sweden,Nurse,Weekly,Yes,Sometimes,Yes,No,No,250,300,10,3000
+3,Germany,Construction,Daily,Yes,Often,No,Yes,Yes,220,280,12,3360
+4,Norway,Logistics,Daily,No,Rarely,No,No,No,300,350,8,2800
+5,France,Nurse,Weekly,Yes,Often,Yes,Yes,No,210,270,9,2430
+6,Italy,Factory Worker,Daily,Yes,Often,No,Yes,Yes,180,240,11,2640
+7,Spain,Warehouse Worker,Daily,No,Sometimes,No,Yes,Yes,170,230,10,2300
+8,Sweden,Delivery,Monthly,Yes,Rarely,Yes,No,No,250,300,10,3000
+9,Norway,Cleaner,Daily,Yes,Often,No,Yes,Yes,300,350,8,2800
+10,Germany,Construction,Weekly,Yes,Sometimes,No,Yes,Yes,220,280,12,3360
