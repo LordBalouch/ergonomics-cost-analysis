@@ -58,3 +58,11 @@ These steps would enhance the project from analysis into a fully deployable busi
 ---
 
 *This project was built as part of my data analytics portfolio to demonstrate real-world data cleaning, merging, cost modeling, and insight communication.*
+
+
+## 📊 Tableau Dashboard
+
+🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/babak.balouch5382/viz/ErgonomicsSickLeaveCostAnalysisPortfolioProject/ErgonomicsSickLeaveCostDashboard)
+
+This dashboard visualizes estimated costs of musculoskeletal disorders (MSDs) across job roles and countries, and simulates potential savings from ergonomic interventions.
+
